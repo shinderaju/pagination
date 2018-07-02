@@ -1,0 +1,2430 @@
+{
+  "documents": [
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+      "fields": {
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:41:21.453Z"
+        },
+        "moisture": {
+          "integerValue": "84"
+        }
+      },
+      "createTime": "2018-06-29T07:43:11.767616Z",
+      "updateTime": "2018-06-29T07:43:11.767616Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+      "fields": {
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:40:09.040Z"
+        },
+        "moisture": {
+          "integerValue": "84"
+        }
+      },
+      "createTime": "2018-06-29T07:43:11.427571Z",
+      "updateTime": "2018-06-29T07:43:11.427571Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+      "fields": {
+        "moisture": {
+          "integerValue": "84"
+        },
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:38:56.739Z"
+        }
+      },
+      "createTime": "2018-06-29T07:43:11.077524Z",
+      "updateTime": "2018-06-29T07:43:11.077524Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+      "fields": {
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:37:44.341Z"
+        },
+        "moisture": {
+          "integerValue": "84"
+        }
+      },
+      "createTime": "2018-06-29T07:43:10.728660Z",
+      "updateTime": "2018-06-29T07:43:10.728660Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+      "fields": {
+        "timestamp": {
+          "stringValue": "2018-06-10T05:36:32.177Z"
+        },
+        "moisture": {
+          "integerValue": "84"
+        },
+        "deviceId": {
+          "stringValue": "AF01"
+        }
+      },
+      "createTime": "2018-06-29T07:43:10.354118Z",
+      "updateTime": "2018-06-29T07:43:10.354118Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+      "fields": {
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:35:19.442Z"
+        },
+        "moisture": {
+          "integerValue": "84"
+        }
+      },
+      "createTime": "2018-06-29T07:43:09.996301Z",
+      "updateTime": "2018-06-29T07:43:09.996301Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+      "fields": {
+        "moisture": {
+          "integerValue": "84"
+        },
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:34:07.134Z"
+        }
+      },
+      "createTime": "2018-06-29T07:43:09.616827Z",
+      "updateTime": "2018-06-29T07:43:09.616827Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+      "fields": {
+        "moisture": {
+          "integerValue": "84"
+        },
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:32:54.686Z"
+        }
+      },
+      "createTime": "2018-06-29T07:43:09.250999Z",
+      "updateTime": "2018-06-29T07:43:09.250999Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+      "fields": {
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:31:42.182Z"
+        },
+        "moisture": {
+          "integerValue": "84"
+        }
+      },
+      "createTime": "2018-06-29T07:43:08.895871Z",
+      "updateTime": "2018-06-29T07:43:08.895871Z"
+    },
+    {
+      "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+      "fields": {
+        "deviceId": {
+          "stringValue": "AF01"
+        },
+        "timestamp": {
+          "stringValue": "2018-06-10T05:30:29.854Z"
+        },
+        "moisture": {
+          "integerValue": "84"
+        }
+      },
+      "createTime": "2018-06-29T07:43:08.507481Z",
+      "updateTime": "2018-06-29T07:43:08.507481Z"
+    },  {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+        "fields": {
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:41:21.453Z"
+          },
+          "moisture": {
+            "integerValue": "84"
+          }
+        },
+        "createTime": "2018-06-29T07:43:11.767616Z",
+        "updateTime": "2018-06-29T07:43:11.767616Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+        "fields": {
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:40:09.040Z"
+          },
+          "moisture": {
+            "integerValue": "84"
+          }
+        },
+        "createTime": "2018-06-29T07:43:11.427571Z",
+        "updateTime": "2018-06-29T07:43:11.427571Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+        "fields": {
+          "moisture": {
+            "integerValue": "84"
+          },
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:38:56.739Z"
+          }
+        },
+        "createTime": "2018-06-29T07:43:11.077524Z",
+        "updateTime": "2018-06-29T07:43:11.077524Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+        "fields": {
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:37:44.341Z"
+          },
+          "moisture": {
+            "integerValue": "84"
+          }
+        },
+        "createTime": "2018-06-29T07:43:10.728660Z",
+        "updateTime": "2018-06-29T07:43:10.728660Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+        "fields": {
+          "timestamp": {
+            "stringValue": "2018-06-10T05:36:32.177Z"
+          },
+          "moisture": {
+            "integerValue": "84"
+          },
+          "deviceId": {
+            "stringValue": "AF01"
+          }
+        },
+        "createTime": "2018-06-29T07:43:10.354118Z",
+        "updateTime": "2018-06-29T07:43:10.354118Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+        "fields": {
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:35:19.442Z"
+          },
+          "moisture": {
+            "integerValue": "84"
+          }
+        },
+        "createTime": "2018-06-29T07:43:09.996301Z",
+        "updateTime": "2018-06-29T07:43:09.996301Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+        "fields": {
+          "moisture": {
+            "integerValue": "84"
+          },
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:34:07.134Z"
+          }
+        },
+        "createTime": "2018-06-29T07:43:09.616827Z",
+        "updateTime": "2018-06-29T07:43:09.616827Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+        "fields": {
+          "moisture": {
+            "integerValue": "84"
+          },
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:32:54.686Z"
+          }
+        },
+        "createTime": "2018-06-29T07:43:09.250999Z",
+        "updateTime": "2018-06-29T07:43:09.250999Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+        "fields": {
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:31:42.182Z"
+          },
+          "moisture": {
+            "integerValue": "84"
+          }
+        },
+        "createTime": "2018-06-29T07:43:08.895871Z",
+        "updateTime": "2018-06-29T07:43:08.895871Z"
+      },
+      {
+        "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+        "fields": {
+          "deviceId": {
+            "stringValue": "AF01"
+          },
+          "timestamp": {
+            "stringValue": "2018-06-10T05:30:29.854Z"
+          },
+          "moisture": {
+            "integerValue": "84"
+          }
+        },
+        "createTime": "2018-06-29T07:43:08.507481Z",
+        "updateTime": "2018-06-29T07:43:08.507481Z"
+      },  {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+          "fields": {
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:41:21.453Z"
+            },
+            "moisture": {
+              "integerValue": "84"
+            }
+          },
+          "createTime": "2018-06-29T07:43:11.767616Z",
+          "updateTime": "2018-06-29T07:43:11.767616Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+          "fields": {
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:40:09.040Z"
+            },
+            "moisture": {
+              "integerValue": "84"
+            }
+          },
+          "createTime": "2018-06-29T07:43:11.427571Z",
+          "updateTime": "2018-06-29T07:43:11.427571Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+          "fields": {
+            "moisture": {
+              "integerValue": "84"
+            },
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:38:56.739Z"
+            }
+          },
+          "createTime": "2018-06-29T07:43:11.077524Z",
+          "updateTime": "2018-06-29T07:43:11.077524Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+          "fields": {
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:37:44.341Z"
+            },
+            "moisture": {
+              "integerValue": "84"
+            }
+          },
+          "createTime": "2018-06-29T07:43:10.728660Z",
+          "updateTime": "2018-06-29T07:43:10.728660Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+          "fields": {
+            "timestamp": {
+              "stringValue": "2018-06-10T05:36:32.177Z"
+            },
+            "moisture": {
+              "integerValue": "84"
+            },
+            "deviceId": {
+              "stringValue": "AF01"
+            }
+          },
+          "createTime": "2018-06-29T07:43:10.354118Z",
+          "updateTime": "2018-06-29T07:43:10.354118Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+          "fields": {
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:35:19.442Z"
+            },
+            "moisture": {
+              "integerValue": "84"
+            }
+          },
+          "createTime": "2018-06-29T07:43:09.996301Z",
+          "updateTime": "2018-06-29T07:43:09.996301Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+          "fields": {
+            "moisture": {
+              "integerValue": "84"
+            },
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:34:07.134Z"
+            }
+          },
+          "createTime": "2018-06-29T07:43:09.616827Z",
+          "updateTime": "2018-06-29T07:43:09.616827Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+          "fields": {
+            "moisture": {
+              "integerValue": "84"
+            },
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:32:54.686Z"
+            }
+          },
+          "createTime": "2018-06-29T07:43:09.250999Z",
+          "updateTime": "2018-06-29T07:43:09.250999Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+          "fields": {
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:31:42.182Z"
+            },
+            "moisture": {
+              "integerValue": "84"
+            }
+          },
+          "createTime": "2018-06-29T07:43:08.895871Z",
+          "updateTime": "2018-06-29T07:43:08.895871Z"
+        },
+        {
+          "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+          "fields": {
+            "deviceId": {
+              "stringValue": "AF01"
+            },
+            "timestamp": {
+              "stringValue": "2018-06-10T05:30:29.854Z"
+            },
+            "moisture": {
+              "integerValue": "84"
+            }
+          },
+          "createTime": "2018-06-29T07:43:08.507481Z",
+          "updateTime": "2018-06-29T07:43:08.507481Z"
+        },  {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+            "fields": {
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:41:21.453Z"
+              },
+              "moisture": {
+                "integerValue": "84"
+              }
+            },
+            "createTime": "2018-06-29T07:43:11.767616Z",
+            "updateTime": "2018-06-29T07:43:11.767616Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+            "fields": {
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:40:09.040Z"
+              },
+              "moisture": {
+                "integerValue": "84"
+              }
+            },
+            "createTime": "2018-06-29T07:43:11.427571Z",
+            "updateTime": "2018-06-29T07:43:11.427571Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+            "fields": {
+              "moisture": {
+                "integerValue": "84"
+              },
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:38:56.739Z"
+              }
+            },
+            "createTime": "2018-06-29T07:43:11.077524Z",
+            "updateTime": "2018-06-29T07:43:11.077524Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+            "fields": {
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:37:44.341Z"
+              },
+              "moisture": {
+                "integerValue": "84"
+              }
+            },
+            "createTime": "2018-06-29T07:43:10.728660Z",
+            "updateTime": "2018-06-29T07:43:10.728660Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+            "fields": {
+              "timestamp": {
+                "stringValue": "2018-06-10T05:36:32.177Z"
+              },
+              "moisture": {
+                "integerValue": "84"
+              },
+              "deviceId": {
+                "stringValue": "AF01"
+              }
+            },
+            "createTime": "2018-06-29T07:43:10.354118Z",
+            "updateTime": "2018-06-29T07:43:10.354118Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+            "fields": {
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:35:19.442Z"
+              },
+              "moisture": {
+                "integerValue": "84"
+              }
+            },
+            "createTime": "2018-06-29T07:43:09.996301Z",
+            "updateTime": "2018-06-29T07:43:09.996301Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+            "fields": {
+              "moisture": {
+                "integerValue": "84"
+              },
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:34:07.134Z"
+              }
+            },
+            "createTime": "2018-06-29T07:43:09.616827Z",
+            "updateTime": "2018-06-29T07:43:09.616827Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+            "fields": {
+              "moisture": {
+                "integerValue": "84"
+              },
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:32:54.686Z"
+              }
+            },
+            "createTime": "2018-06-29T07:43:09.250999Z",
+            "updateTime": "2018-06-29T07:43:09.250999Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+            "fields": {
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:31:42.182Z"
+              },
+              "moisture": {
+                "integerValue": "84"
+              }
+            },
+            "createTime": "2018-06-29T07:43:08.895871Z",
+            "updateTime": "2018-06-29T07:43:08.895871Z"
+          },
+          {
+            "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+            "fields": {
+              "deviceId": {
+                "stringValue": "AF01"
+              },
+              "timestamp": {
+                "stringValue": "2018-06-10T05:30:29.854Z"
+              },
+              "moisture": {
+                "integerValue": "84"
+              }
+            },
+            "createTime": "2018-06-29T07:43:08.507481Z",
+            "updateTime": "2018-06-29T07:43:08.507481Z"
+          },  {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+              "fields": {
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:41:21.453Z"
+                },
+                "moisture": {
+                  "integerValue": "84"
+                }
+              },
+              "createTime": "2018-06-29T07:43:11.767616Z",
+              "updateTime": "2018-06-29T07:43:11.767616Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+              "fields": {
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:40:09.040Z"
+                },
+                "moisture": {
+                  "integerValue": "84"
+                }
+              },
+              "createTime": "2018-06-29T07:43:11.427571Z",
+              "updateTime": "2018-06-29T07:43:11.427571Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+              "fields": {
+                "moisture": {
+                  "integerValue": "84"
+                },
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:38:56.739Z"
+                }
+              },
+              "createTime": "2018-06-29T07:43:11.077524Z",
+              "updateTime": "2018-06-29T07:43:11.077524Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+              "fields": {
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:37:44.341Z"
+                },
+                "moisture": {
+                  "integerValue": "84"
+                }
+              },
+              "createTime": "2018-06-29T07:43:10.728660Z",
+              "updateTime": "2018-06-29T07:43:10.728660Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+              "fields": {
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:36:32.177Z"
+                },
+                "moisture": {
+                  "integerValue": "84"
+                },
+                "deviceId": {
+                  "stringValue": "AF01"
+                }
+              },
+              "createTime": "2018-06-29T07:43:10.354118Z",
+              "updateTime": "2018-06-29T07:43:10.354118Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+              "fields": {
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:35:19.442Z"
+                },
+                "moisture": {
+                  "integerValue": "84"
+                }
+              },
+              "createTime": "2018-06-29T07:43:09.996301Z",
+              "updateTime": "2018-06-29T07:43:09.996301Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+              "fields": {
+                "moisture": {
+                  "integerValue": "84"
+                },
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:34:07.134Z"
+                }
+              },
+              "createTime": "2018-06-29T07:43:09.616827Z",
+              "updateTime": "2018-06-29T07:43:09.616827Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+              "fields": {
+                "moisture": {
+                  "integerValue": "84"
+                },
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:32:54.686Z"
+                }
+              },
+              "createTime": "2018-06-29T07:43:09.250999Z",
+              "updateTime": "2018-06-29T07:43:09.250999Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+              "fields": {
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:31:42.182Z"
+                },
+                "moisture": {
+                  "integerValue": "84"
+                }
+              },
+              "createTime": "2018-06-29T07:43:08.895871Z",
+              "updateTime": "2018-06-29T07:43:08.895871Z"
+            },
+            {
+              "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+              "fields": {
+                "deviceId": {
+                  "stringValue": "AF01"
+                },
+                "timestamp": {
+                  "stringValue": "2018-06-10T05:30:29.854Z"
+                },
+                "moisture": {
+                  "integerValue": "84"
+                }
+              },
+              "createTime": "2018-06-29T07:43:08.507481Z",
+              "updateTime": "2018-06-29T07:43:08.507481Z"
+            },  {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+                "fields": {
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:41:21.453Z"
+                  },
+                  "moisture": {
+                    "integerValue": "84"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:11.767616Z",
+                "updateTime": "2018-06-29T07:43:11.767616Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+                "fields": {
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:40:09.040Z"
+                  },
+                  "moisture": {
+                    "integerValue": "84"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:11.427571Z",
+                "updateTime": "2018-06-29T07:43:11.427571Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+                "fields": {
+                  "moisture": {
+                    "integerValue": "84"
+                  },
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:38:56.739Z"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:11.077524Z",
+                "updateTime": "2018-06-29T07:43:11.077524Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+                "fields": {
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:37:44.341Z"
+                  },
+                  "moisture": {
+                    "integerValue": "84"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:10.728660Z",
+                "updateTime": "2018-06-29T07:43:10.728660Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+                "fields": {
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:36:32.177Z"
+                  },
+                  "moisture": {
+                    "integerValue": "84"
+                  },
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:10.354118Z",
+                "updateTime": "2018-06-29T07:43:10.354118Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+                "fields": {
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:35:19.442Z"
+                  },
+                  "moisture": {
+                    "integerValue": "84"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:09.996301Z",
+                "updateTime": "2018-06-29T07:43:09.996301Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                "fields": {
+                  "moisture": {
+                    "integerValue": "84"
+                  },
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:34:07.134Z"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:09.616827Z",
+                "updateTime": "2018-06-29T07:43:09.616827Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                "fields": {
+                  "moisture": {
+                    "integerValue": "84"
+                  },
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:32:54.686Z"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:09.250999Z",
+                "updateTime": "2018-06-29T07:43:09.250999Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                "fields": {
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:31:42.182Z"
+                  },
+                  "moisture": {
+                    "integerValue": "84"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:08.895871Z",
+                "updateTime": "2018-06-29T07:43:08.895871Z"
+              },
+              {
+                "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                "fields": {
+                  "deviceId": {
+                    "stringValue": "AF01"
+                  },
+                  "timestamp": {
+                    "stringValue": "2018-06-10T05:30:29.854Z"
+                  },
+                  "moisture": {
+                    "integerValue": "84"
+                  }
+                },
+                "createTime": "2018-06-29T07:43:08.507481Z",
+                "updateTime": "2018-06-29T07:43:08.507481Z"
+              },  {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+                  "fields": {
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:41:21.453Z"
+                    },
+                    "moisture": {
+                      "integerValue": "84"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:11.767616Z",
+                  "updateTime": "2018-06-29T07:43:11.767616Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+                  "fields": {
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:40:09.040Z"
+                    },
+                    "moisture": {
+                      "integerValue": "84"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:11.427571Z",
+                  "updateTime": "2018-06-29T07:43:11.427571Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+                  "fields": {
+                    "moisture": {
+                      "integerValue": "84"
+                    },
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:38:56.739Z"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:11.077524Z",
+                  "updateTime": "2018-06-29T07:43:11.077524Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+                  "fields": {
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:37:44.341Z"
+                    },
+                    "moisture": {
+                      "integerValue": "84"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:10.728660Z",
+                  "updateTime": "2018-06-29T07:43:10.728660Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+                  "fields": {
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:36:32.177Z"
+                    },
+                    "moisture": {
+                      "integerValue": "84"
+                    },
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:10.354118Z",
+                  "updateTime": "2018-06-29T07:43:10.354118Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+                  "fields": {
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:35:19.442Z"
+                    },
+                    "moisture": {
+                      "integerValue": "84"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:09.996301Z",
+                  "updateTime": "2018-06-29T07:43:09.996301Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                  "fields": {
+                    "moisture": {
+                      "integerValue": "84"
+                    },
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:34:07.134Z"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:09.616827Z",
+                  "updateTime": "2018-06-29T07:43:09.616827Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                  "fields": {
+                    "moisture": {
+                      "integerValue": "84"
+                    },
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:32:54.686Z"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:09.250999Z",
+                  "updateTime": "2018-06-29T07:43:09.250999Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                  "fields": {
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:31:42.182Z"
+                    },
+                    "moisture": {
+                      "integerValue": "84"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:08.895871Z",
+                  "updateTime": "2018-06-29T07:43:08.895871Z"
+                },
+                {
+                  "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                  "fields": {
+                    "deviceId": {
+                      "stringValue": "AF01"
+                    },
+                    "timestamp": {
+                      "stringValue": "2018-06-10T05:30:29.854Z"
+                    },
+                    "moisture": {
+                      "integerValue": "84"
+                    }
+                  },
+                  "createTime": "2018-06-29T07:43:08.507481Z",
+                  "updateTime": "2018-06-29T07:43:08.507481Z"
+                },  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5694",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:41:21.453Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:11.767616Z",
+                    "updateTime": "2018-06-29T07:43:11.767616Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5693",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:40:09.040Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:11.427571Z",
+                    "updateTime": "2018-06-29T07:43:11.427571Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5692",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:38:56.739Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:11.077524Z",
+                    "updateTime": "2018-06-29T07:43:11.077524Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5691",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:37:44.341Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:10.728660Z",
+                    "updateTime": "2018-06-29T07:43:10.728660Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5690",
+                    "fields": {
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:36:32.177Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:10.354118Z",
+                    "updateTime": "2018-06-29T07:43:10.354118Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5689",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:35:19.442Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.996301Z",
+                    "updateTime": "2018-06-29T07:43:09.996301Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:34:07.134Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.616827Z",
+                    "updateTime": "2018-06-29T07:43:09.616827Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:32:54.686Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.250999Z",
+                    "updateTime": "2018-06-29T07:43:09.250999Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:31:42.182Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.895871Z",
+                    "updateTime": "2018-06-29T07:43:08.895871Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:34:07.134Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.616827Z",
+                    "updateTime": "2018-06-29T07:43:09.616827Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:32:54.686Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.250999Z",
+                    "updateTime": "2018-06-29T07:43:09.250999Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:31:42.182Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.895871Z",
+                    "updateTime": "2018-06-29T07:43:08.895871Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:34:07.134Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.616827Z",
+                    "updateTime": "2018-06-29T07:43:09.616827Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:32:54.686Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.250999Z",
+                    "updateTime": "2018-06-29T07:43:09.250999Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:31:42.182Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.895871Z",
+                    "updateTime": "2018-06-29T07:43:08.895871Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:34:07.134Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.616827Z",
+                    "updateTime": "2018-06-29T07:43:09.616827Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:32:54.686Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.250999Z",
+                    "updateTime": "2018-06-29T07:43:09.250999Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:31:42.182Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.895871Z",
+                    "updateTime": "2018-06-29T07:43:08.895871Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:34:07.134Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.616827Z",
+                    "updateTime": "2018-06-29T07:43:09.616827Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:32:54.686Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.250999Z",
+                    "updateTime": "2018-06-29T07:43:09.250999Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:31:42.182Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.895871Z",
+                    "updateTime": "2018-06-29T07:43:08.895871Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5688",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:34:07.134Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.616827Z",
+                    "updateTime": "2018-06-29T07:43:09.616827Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5687",
+                    "fields": {
+                      "moisture": {
+                        "integerValue": "84"
+                      },
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:32:54.686Z"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:09.250999Z",
+                    "updateTime": "2018-06-29T07:43:09.250999Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5686",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:31:42.182Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.895871Z",
+                    "updateTime": "2018-06-29T07:43:08.895871Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  },
+                  {
+                    "name": "projects/frontend-assignment-ab1ca/databases/(default)/documents/readings/5685",
+                    "fields": {
+                      "deviceId": {
+                        "stringValue": "AF01"
+                      },
+                      "timestamp": {
+                        "stringValue": "2018-06-10T05:30:29.854Z"
+                      },
+                      "moisture": {
+                        "integerValue": "84"
+                      }
+                    },
+                    "createTime": "2018-06-29T07:43:08.507481Z",
+                    "updateTime": "2018-06-29T07:43:08.507481Z"
+                  }
+  ],
+  "nextPageToken": "AIxCeCSINDgD-7cD9_7ESQdAnI570FzTQuEox7ZAeiSnkGXnZkkNr1DoYtfFopqE9b7C-mzUQU25ZEBTA7QQ9xcpVxXGGmMT15q-uXBqytsIor8GVfnfEiXfD0hksR-59NuFZxBCQi3mInHFoJNUUQq0"
+}

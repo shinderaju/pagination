@@ -1,0 +1,46 @@
+<div class="footer">
+    <div class="dropdown dropdown-box">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        pagination style
+      </button>
+      <div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+        <a class="dropdown-item" (click)="selectPagination(1)">pagination 1</a>
+        <a class="dropdown-item" (click)="selectPagination(2)">pagination 2</a>
+        <a class="dropdown-item" (click)="selectPagination(3)">pagination 3</a>
+      </div>
+    </div>
+    <!-- pager -->
+    <!-- pagination style 1 -->
+    <div *ngIf="selectedPagination==1" class="pagination-3">
+      <button type="button" [ngClass]="{disabled:pager.currentPage === 1}" class="btn btn-success btn-arrow-left" (click)="changePage(pager.currentPage - 1)">Previous</button>
+      <button type="button" [ngClass]="{disabled:pager.currentPage === pager.totalPages}" class="btn btn-success btn-arrow-right" (click)="changePage(pager.currentPage + 1)">Next</button>
+    </div>
+
+    <!-- pagination style 2 -->
+    <div *ngIf="selectedPagination==2">
+      <ul class="pagination pagination-2">
+        <li class="page-item " [ngClass]="{disabled:pager.currentPage === 1}">
+          <a class="page-link bg-success"  (click)="changePage(pager.currentPage - 1)">Previous</a>
+        </li>
+        <li class="page-item" *ngFor="let page of pager.pages" [ngClass]="{active:pager.currentPage === page}">
+            <a class="page-link"href="#" (click)="changePage(page)">{{page}}</a>
+        </li>
+        <li class="page-item" [ngClass]="{disabled:pager.currentPage === pager.totalPages}">
+          <a class="page-link bg-success"  (click)="changePage(pager.currentPage + 1)">Next</a>
+            <!-- <button style=" border-radius: 0 !important;" class="btn btn-success" (click)="changePage(pager.currentPage + 1)">Next</button> -->
+        </li>
+      </ul>
+    </div>
+
+    <!-- pagination style 3 -->
+    <div *ngIf="selectedPagination==3" class="pagination-3">
+      <ul class="circular-buttons">
+
+         <li (click)="changePage(page)"  *ngFor="let page of pager.pages" [ngClass]="{active:pager.currentPage === page}">
+             {{page}}
+         </li>
+
+      </ul>
+    </div>
+
+</div>
